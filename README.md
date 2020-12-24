@@ -1,2 +1,2 @@
-# coiled-hackathon
-Bessemer getting to play around with Coiled
+# BVP Mini Coiled Hackathon
+Casey, Alexandra and Sakib from Bessemer experiment with Dask and Coiled!
